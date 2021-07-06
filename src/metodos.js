@@ -1,5 +1,5 @@
 const metodos = (prefix, sender) => {
-	return `PRIVATE METODOS VIP
+	return `GAUCHO METODOS VIP
 
 *${prefix}mt1* Painel Kiny
 *${prefix}mt2* Em breve
@@ -7,7 +7,7 @@ const metodos = (prefix, sender) => {
 *${prefix}mt4* Em breve
 *${prefix}mt5* Em breve
 
-METODOS AGREGADOS POR SKILLER 
+METODOS AGREGADOS POR NETTO 
 ` 
 }
 

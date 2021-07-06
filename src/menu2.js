@@ -47,6 +47,6 @@ const menu2 = (prefix) => {
 ╠➸ *${prefix}
 ╠➸ *${prefix}
 ║
-╠══✪〘 *PRIVATE BOT* 〙✪══`
+╠══✪〘 *GAUCHO BOT 🧉* 〙✪══`
 }
 exports.menu2 = menu2

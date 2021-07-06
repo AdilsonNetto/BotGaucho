@@ -1,8 +1,8 @@
 const help = (prefix) => {
 	return `
-⊱ ────── {*𝐆𝐀𝐔𝐂𝐇𝐎 𝐁𝐎𝐓*} ────── ⊰
-┃〘* 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐎𝐄𝐒 *〙
-╠👑 *GAUCHO BOT *
+⊱ ────── {𝐆𝐀𝐔𝐂𝐇𝐎 𝐁𝐎𝐓} ────── ⊰
+┃〘 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐎𝐄𝐒 〙
+╠👑 *GAUCHO BOT 🧉*
 ╠👑 *dono ADILSON (base CAUSS)*
 ╠👑 *wa.me/+5565996932368*
 ╠👑 *status: ON*
@@ -13,8 +13,8 @@ const help = (prefix) => {
 ┃
 ╠──🌹〘 *𝐍𝐎𝐕𝐈𝐃𝐀𝐃𝐄𝐒* 〙🌹──
 ┃❗𝐌𝐄𝐍𝐔 𝐑𝐄𝐅𝐎𝐑𝐌𝐔𝐋𝐀𝐃𝐎❗
-┃❗*comando de ${prefix}imunes atualizado*❗
-┃❗*comando de ${prefix}modapk atualizado somente vip*❗
+┃❗comando de ${prefix}imunes atualizado❗
+┃❗comando de ${prefix}modapk atualizado somente vip❗
 ╠────────────────────
 ┃Ⓢ  *${prefix}dono*
 ┃Ⓢ  *${prefix}owner*
@@ -84,7 +84,7 @@ const help = (prefix) => {
 ┃❗Utilidade Boas vindas 
 ┃Ⓢ *${prefix}grupoinfo*
 ┃❗Utilidade Descrição gp
-┃Ⓢ * ${prefix}leveling [on/off]*
+┃Ⓢ *${prefix}leveling [on/off]*
 ┃❗Utilidade Sistema de level
 ┃Ⓢ *${prefix}level*
 ┃❗Utilidade Seu level
@@ -189,16 +189,16 @@ const help = (prefix) => {
 ┃ *Ⓢ gemidao*
 ┃ *Ⓢ musica*
 ┃
-╠──✰〘 𝐒𝐊𝐈𝐋𝐋𝐄𝐑 𝐃𝐎𝐌𝐈𝐍𝐀 〙✰──
+╠──✰〘 𝐀𝐃𝐈𝐋𝐒𝐎𝐍 𝐃𝐎𝐌𝐈𝐍𝐀 〙✰──
 ┃
-┃ NOME: 𝐒𝐊𝐈𝐋𝐋𝐄𝐑
-┃ INSTA: skiller.on
-┃ WPP: wa.me/558892594715
-┃ YOUTUBE: https://youtube.com/c/SKILLERFFOFC
+┃ NOME: 𝐀𝐃𝐈𝐋𝐒𝐎𝐍
+┃ INSTA: _nettoadilson
+┃ WPP: wa.me/5565996932368
+┃ YOUTUBE: https://youtube.com/c/AdilsonNetto
 ┃ CASO VA MODIFICAR NÃO RETIRE OS CREDITOS
 ┃ 
 ┃  
-┃  Copyright © by SKILLER 
+┃  Copyright © by ADILSON
 ┃
 ╰─〘 𝐆𝐀𝐔𝐂𝐇𝐎 𝐁𝐎𝐓 〙──────────────────`
 }
