@@ -540,26 +540,26 @@ async function starts() {
 	
 	if (messagesC.includes("fdp")){
 			client.updatePresence(from, Presence.composing)
-			reply("teu pai")
+			reply("O jaguara do teu pai que é")
 	}
 	
 		if (messagesC.includes("corno")){
 			client.updatePresence(from, Presence.composing)
-			reply("vsfd seu merda")
+			reply("Teu pai aquele guampeiro")
 	}
 	
 		if (messagesC.includes("tmnc")){
 			client.updatePresence(from, Presence.composing)
-			reply("vai vc, tu ja me disse q é mo bom")
+			reply("Vai vc, tu ja me disse q é bom")
 	}
 	
 		if (messagesC.includes("vsfd")){
 			client.updatePresence(from, Presence.composing)
-			reply("bora juntos?")
+			reply("Vamos juntos?")
 	}
 		if (messagesC.includes("cadebot")){
 			client.updatePresence(from, Presence.composing)
-			reply("olha eu aqui carai")
+			reply("Olha eu aqui tchê")
 	}
 	
 		/*if (messagesC.includes("bot")){
@@ -576,9 +576,9 @@ async function starts() {
 			reply("💻COMANDOS💻\n\npkg update\n\npkg upgrade\n\npkg install python\n\npkg install python2\n\npkg intall python3\n\npkg install git\n\ngit clone  https://github.com/Kiny-Kiny/Kiny-Painel ​ \n\ncd Kiny-Painel\n\npython3 main.py\n\nUsername: Kiny\n\nPassword: VirtualInsanity") 
 	}
 	
-			if (messagesC.includes("bah")){
+			if (messagesC.includes("cadelabaia")){
 			client.updatePresence(from, Presence.composing)
-			tujuh = fs.readFileSync('./assets/bahc.mp3');
+			tujuh = fs.readFileSync('./assets/cadelabaia.mp3');
             client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 	}
 	
@@ -587,20 +587,20 @@ client.updatePresence(from, Presence.composing)
 reply("oi posso ajudar")
 }
 	
-				if (messagesC.includes("causs")){
+				if (messagesC.includes("eusoubagual")){
 			client.updatePresence(from, Presence.composing)
-			tujuh = fs.readFileSync('./assets/caussf.mp3');
+			tujuh = fs.readFileSync('./assets/eusoubagual.mp3');
             client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 	}
 	
-			if (messagesC.includes("Dbz")){
+			if (messagesC.includes("velhogosta")){
 			client.updatePresence(from, Presence.composing)
-			tujuh = fs.readFileSync('./assets/Dbz.mp3');
+			tujuh = fs.readFileSync('./assets/velhogosta.mp3');
             client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 	}
-	        if (messagesC.includes("sexo")){
+	        if (messagesC.includes("tirodelaço")){
 			client.updatePresence(from, Presence.composing)
-			tujuh = fs.readFileSync('./assets/Sexo.mp3');
+			tujuh = fs.readFileSync('./assets/tirodelaço.mp3');
             client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 	}
 	
@@ -636,21 +636,21 @@ reply("oi posso ajudar")
             client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 	}
 	
-				if (messagesC.includes("canta")){
+				if (messagesC.includes("dagrota")){
 			client.updatePresence(from, Presence.composing)
-			tujuh = fs.readFileSync('./assets/canto.mp3');
+			tujuh = fs.readFileSync('./assets/dagrota.mp3');
             client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 	}
 	
-					if (messagesC.includes("grita")){
+					if (messagesC.includes("chaobatido")){
 			client.updatePresence(from, Presence.composing)
-			tujuh = fs.readFileSync('./assets/a.mp3');
+			tujuh = fs.readFileSync('./assets/chaobatido.mp3');
             client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 	}
 	
-			if (messagesC.includes("bv")){
+			if (messagesC.includes("batendoagua")){
 			client.updatePresence(from, Presence.composing)
-			tujuh = fs.readFileSync('./assets/bv.mp3');
+			tujuh = fs.readFileSync('./assets/batendoagua.mp3');
             client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 	}
 	

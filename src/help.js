@@ -180,14 +180,13 @@ const help = (prefix) => {
 ╠──〘 👾𝐈𝐍𝐓𝐄𝐑𝐀𝐂̧𝐀𝐎 👾〙────
 ┃
 ┃   *Mandar a msg sem o prefixo*
-┃ *Ⓢ bah*
-┃ *Ⓢ oii*
-┃ *Ⓢ bv*
-┃ *Ⓢ canta*
-┃ *Ⓢ grita*
-┃ *Ⓢ causs*
-┃ *Ⓢ gemidao*
-┃ *Ⓢ musica*
+┃ *Ⓢ cadelabaia*
+┃ *Ⓢ batendoagua*
+┃ *Ⓢ dagrota*
+┃ *Ⓢ chaobatido*
+┃ *Ⓢ tirodelaço*
+┃ *Ⓢ velhogosta*
+┃ *Ⓢ eusoubagual*
 ┃
 ╠──✰〘 𝐀𝐃𝐈𝐋𝐒𝐎𝐍 𝐃𝐎𝐌𝐈𝐍𝐀 〙✰──
 ┃
